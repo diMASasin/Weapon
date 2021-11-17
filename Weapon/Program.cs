@@ -14,8 +14,8 @@ namespace Weapon
                 throw new ArgumentOutOfRangeException(nameof(damage));
             if (bullets < 0)
                 throw new ArgumentOutOfRangeException(nameof(bullets));
-            if (bullets < 1)
-                throw new ArgumentOutOfRangeException(nameof(bullets));
+            if (bulletsPerShot < 1)
+                throw new ArgumentOutOfRangeException(nameof(bulletsPerShot));
 
             _damage = damage;
             _bullets = bullets;
