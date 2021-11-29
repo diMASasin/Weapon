@@ -50,6 +50,9 @@ namespace Weapon
                 throw new ArgumentOutOfRangeException(nameof(damage));
 
             _health -= damage;
+
+            if (_health < 0)
+                _health = 0;
         }
     }
 
