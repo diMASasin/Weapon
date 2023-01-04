@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.exe
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.deps.json
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.json
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.dev.json
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\bin\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.csprojAssemblyReference.cache
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfo.cs
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\Dmitriy\Documents\GitHub\Napilnik\Weapon\Weapon\Weapon\obj\Debug\netcoreapp3.1\Weapon.genruntimeconfig.cache

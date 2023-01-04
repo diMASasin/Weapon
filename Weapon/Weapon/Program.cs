@@ -4,9 +4,9 @@ namespace Weapon
 {
     class Weapon
     {
-        private int _damage;
         private int _bullets;
-        private int _bulletsPerShot;
+        readonly private int _damage;
+        readonly private int _bulletsPerShot;
 
         public Weapon(int damage, int bullets, int bulletsPerShot = 1)
         {
@@ -58,7 +58,7 @@ namespace Weapon
 
     class Bot
     {
-        private Weapon _weapon;
+        readonly private Weapon _weapon;
 
         public Bot(Weapon weapon)
         {
