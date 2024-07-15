@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#Projects\\Weapon\\Weapon\\Weapon.csproj": {}
+    "C:\\C#Projects\\Weapon\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\C#Projects\\Weapon\\Weapon\\Weapon.csproj": {
+    "C:\\C#Projects\\Weapon\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Projects\\Weapon\\Weapon\\Weapon.csproj",
-        "projectName": "Weapon",
-        "projectPath": "C:\\C#Projects\\Weapon\\Weapon\\Weapon.csproj",
+        "projectUniqueName": "C:\\C#Projects\\Weapon\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\C#Projects\\Weapon\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Dmitriy\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Projects\\Weapon\\Weapon\\obj\\",
+        "outputPath": "C:\\C#Projects\\Weapon\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
